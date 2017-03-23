@@ -1,3 +1,5 @@
+This is an unchanged for of BotDetect PHP Captcha Library. This is only forked because I need to tag it with a release to use it, if you want to use it you should use the original version.
+
 BotDetect PHP Captcha Library  
 -------------------------------
 
